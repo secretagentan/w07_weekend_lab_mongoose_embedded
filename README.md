@@ -12,7 +12,7 @@ To practice using Mongoose and embedded and referenced documents, we will design
 - Include Mongoose and create embedded and referenced models:
 
   - Airport
-    - Name(String)
+    - name(String)
     - country(String)
     - terminals(Array of embedded Terminal Objects)
     - opened(Date)
